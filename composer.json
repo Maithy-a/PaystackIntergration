@@ -1,5 +1,16 @@
 {
-    "require": {
-        "vlucas/phpdotenv": "^5.6"
+  "name": "maithya/paystack-intergration",
+  "description": "A simple project designed to showcase the seamless integration of both Mpesa and Paystack payment gateways using inline JavaScript. This project provides a practical example of how developers can implement payment solutions for these platforms directly within their web applications. It highlights the step-by-step process, making it easier to understand and apply in real-world scenarios, catering to both mobile money (Mpesa) and card-based (Paystack) payment systems.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maithya",
+      "email": "bonn.dev254@gmail.com"
     }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "vlucas/phpdotenv": "^5.5"
+  }
 }
