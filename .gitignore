@@ -1,0 +1,6 @@
+.env
+/vendor/
+/.vscode/
+
+Paystackresponse.json
+sucess.transaction.json
