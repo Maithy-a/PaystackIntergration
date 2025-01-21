@@ -1,14 +1,10 @@
-# Project Title
+# Paystack Intergration
 
-## Credentials
-- **Username:** Bmaithya
-- **Password:** #mAithya123
-- **Email:** [Your Email Here]
-
-Dependancies
+## Dependancies
 Tabler UI
-MySQL
+MySQL (DATABASE)
 PHP
 Bootstrap
 Paystack API
+
 
