@@ -33,7 +33,15 @@ This project demonstrates the integration of Paystack's payment gateway into a P
    ```
 
 4. Set up your `.env` file with your Paystack API keys and database configuration.
-
+```bash
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
+DB_PORT=
+PAYSTACK_SECRET_KEY=
+PAYSTACK_PUBLIC_KEY=
+```
 5. Create a database schema that looks like this:
    ![image](https://github.com/user-attachments/assets/b0f34fef-f096-47ec-9910-dcb33ada9946)
 
