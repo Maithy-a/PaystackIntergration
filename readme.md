@@ -1,6 +1,4 @@
-Here’s a basic `README.md` template for your repository:
 
-```markdown
 # Paystack Integration
 
 This project demonstrates the integration of Paystack's payment gateway into a PHP-based application. The application allows users to register, log in, and make payments through Paystack.
@@ -36,8 +34,13 @@ This project demonstrates the integration of Paystack's payment gateway into a P
 
 4. Set up your `.env` file with your Paystack API keys and database configuration.
 
-5. Run the application on your local server.
+5. Create a database schema that looks like this:
+   ![image](https://github.com/user-attachments/assets/b0f34fef-f096-47ec-9910-dcb33ada9946)
 
+6. Run the application on your local server.
+```bash
+php -S localhost:8080
+```
 ## Usage
 After setting up the project, you can use the registration page to create an account, then make payments using Paystack.
 
